@@ -1,4 +1,5 @@
 # Stretch Challenge: Logic Gate Simulator
+# See if you can correctly guess each output
 
 def and_gate(a, b):
     return a and b
