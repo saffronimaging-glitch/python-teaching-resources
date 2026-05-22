@@ -1,3 +1,7 @@
+
+# Set up the nodes.
+# What pattern do you notice?
+# How would you add more nodes to this tree?
 graph = {
     "S": ["A", "D"],
     "A": ["B", "C"],
