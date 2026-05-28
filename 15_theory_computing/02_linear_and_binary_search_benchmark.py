@@ -30,8 +30,8 @@ def binary_search(arr, target):
 
 
 # ---------- Benchmark Setup ----------
-LIST_SIZE = 1000000
-TESTS = 1000
+LIST_SIZE = 100
+TESTS = 10
 
 # Create sorted list
 numbers = list(range(LIST_SIZE))
